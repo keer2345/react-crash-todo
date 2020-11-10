@@ -1,6 +1,11 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- https://www.youtube.com/c/TraversyMedia/playlists
+- https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb
+- https://www.youtube.com/watch?v=sBws8MSXN7A
 
 ## Available Scripts
 
