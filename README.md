@@ -3,9 +3,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Videos of this project:**
+- https://www.youtube.com/watch?v=sBws8MSXN7A
+
+**Other Videos:**
 - https://www.youtube.com/c/TraversyMedia/playlists
 - https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb
-- https://www.youtube.com/watch?v=sBws8MSXN7A
 
 ## Available Scripts
 
